@@ -1,4 +1,4 @@
-- 👋 Hola, soy @ulopez293
+- 👋 Hola, soy ubaldo
 - 👀 Me interesa el desarrollo de software
 - 🌱 Actualmente estoy aprendiendo TDD
 - 💞️ Estoy buscando colaborar en proyectos Scrum/XP
