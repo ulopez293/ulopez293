@@ -30,4 +30,4 @@ Siempre estoy abierto a colaborar en proyectos interesantes. 🚀
 ## 💻 Apoya mi trabajo  
 Si te gusta lo que hago y quieres apoyarme, puedes hacer una donación aquí:  
 
-[![Donar con PayPal](https://img.shields.io/badge/Donar%20con-PayPal-0070ba?style=for-the-badge&logo=paypal)](https://paypal.me/ulopez293?country.x=MX&locale.x=es_XC)
+[![Donar con PayPal](https://img.shields.io/badge/Donar%20con-PayPal-0070ba?style=for-the-badge&logo=paypal)](https://paypal.me/ulopez293/100MXN)
