@@ -1,5 +1,7 @@
 # 👋 Hola, soy Ubaldo López
 
+![Next.js y Vercel](https://raw.githubusercontent.com/ulopez293/ulopez293/refs/heads/main/principal.webp)
+
 Soy un desarrollador full stack especializado en **React** y **Next.js**. Me encanta escribir código limpio, escalable y optimizado para el rendimiento. Siempre estoy buscando mejorar mis habilidades y aplicar las mejores prácticas en mis proyectos.
 
 ## 🚀 Sobre mí
