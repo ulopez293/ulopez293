@@ -25,4 +25,4 @@ Soy un desarrollador full stack especializado en **React** y **Next.js**. Me enc
 ## 📜 Encuéntrame en:
 - [LinkedIn](https://www.linkedin.com/in/ubaldo-lopez-87bb85160/)
 
-Siempre estoy abierto a colaborar en proyectos interesantes. ¡Conéctate conmigo! 🚀
+Siempre estoy abierto a colaborar en proyectos interesantes. 🚀
