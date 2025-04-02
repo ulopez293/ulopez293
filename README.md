@@ -1,4 +1,4 @@
-# 🎴🦀 Hola, soy Ubaldo López
+# 🦀 ⚛︎ Hola, soy Ubaldo López
 
 Soy un desarrollador full stack especializado en **React** y **Next.js**. Me encanta escribir código limpio, escalable y optimizado para el rendimiento. Siempre estoy buscando mejorar mis habilidades y aplicar las mejores prácticas en mis proyectos.
 
@@ -14,8 +14,8 @@ Soy un desarrollador full stack especializado en **React** y **Next.js**. Me enc
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Next.js, Tailwind CSS, ShadCN/UI
-- **Backend:** Node.js, Express, tRPC
-- **Base de Datos:** PostgreSQL, Prisma, PlanetScale
+- **Backend:** Node.js, Express, tRPC, Axum, Tokio, Serde
+- **Base de Datos:** PostgreSQL, Prisma, PlanetScale, SQLx
 - **Herramientas:** Git, Vercel, Railway, Turborepo, Zod, ESLint, Prettier
 
 ## 🌎 Proyectos y plataformas:
