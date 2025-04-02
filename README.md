@@ -5,7 +5,7 @@ Soy un desarrollador full stack especializado en **React** y **Next.js**. Me enc
 ![Banner Next.js y Vercel](https://raw.githubusercontent.com/ulopez293/ulopez293/refs/heads/main/banner.jpg)
 
 ## 🚀 Sobre mí
-- 💻 Trabajo con **React, Next.js y TypeScript**.
+- 💻 Trabajo con **Rust, React, Next.js y TypeScript**.
 - 🎨 Me gusta usar **Tailwind CSS** para estilos rápidos y mantenibles.
 - 🛠️ Prefiero herramientas que optimicen mi flujo de trabajo, como **ESLint, Prettier y Turborepo**.
 - 📦 Uso **Prisma** para manejar bases de datos y **tRPC** para comunicación eficiente entre frontend y backend.
@@ -14,7 +14,7 @@ Soy un desarrollador full stack especializado en **React** y **Next.js**. Me enc
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Next.js, Tailwind CSS, ShadCN/UI
-- **Backend:** Node.js, Express, tRPC, Axum (Rust) , Tokio rs, Serde rs
+- **Backend:** Node.js, Express, tRPC, Axum, Tokio, Serde
 - **Base de Datos:** PostgreSQL, Prisma, PlanetScale, SQLx
 - **Herramientas:** Git, Vercel, Railway, Turborepo, Zod, ESLint, Prettier
 
