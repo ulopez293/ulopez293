@@ -1,6 +1,6 @@
 # 🦀 ⚛︎ Hola, soy Ubaldo López
 
-Soy un desarrollador full stack especializado en **React** y **Next.js**. Me encanta escribir código limpio, escalable y optimizado para el rendimiento. Siempre estoy buscando mejorar mis habilidades y aplicar las mejores prácticas en mis proyectos.
+Soy un desarrollador full stack especializado en **Rust**, **React** y **Next.js**. Me encanta escribir código limpio, escalable y optimizado para el rendimiento. Siempre estoy buscando mejorar mis habilidades y aplicar las mejores prácticas en mis proyectos.
 
 ![Banner Next.js y Vercel](https://raw.githubusercontent.com/ulopez293/ulopez293/refs/heads/main/banner.jpg)
 
