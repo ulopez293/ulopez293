@@ -16,7 +16,7 @@ Soy un desarrollador full stack especializado en **Rust**, **React** y **Next.js
 - **Frontend:** React, Next.js, Tailwind CSS, ShadCN/UI
 - **Backend:** Node.js, Express, tRPC, Axum, Tokio, Serde
 - **Base de Datos:** PostgreSQL, Prisma, PlanetScale, SQLx
-- **Herramientas:** Git, Vercel, Railway, Turborepo, Zod, ESLint, Prettier
+- **Herramientas:** Git, Vercel, Railway, Shuttle rs, Zod, ESLint, Prettier
 
 ## 🌎 Proyectos y plataformas:
 - 🌐 [Curanextgen](https://curanextgen.com)
