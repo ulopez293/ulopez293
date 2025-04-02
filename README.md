@@ -14,7 +14,7 @@ Soy un desarrollador full stack especializado en **React** y **Next.js**. Me enc
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Next.js, Tailwind CSS, ShadCN/UI
-- **Backend:** Node.js, Express, tRPC, Axum, Tokio, Serde
+- **Backend:** Node.js, Express, tRPC, Axum (Rust) , Tokio rs, Serde rs
 - **Base de Datos:** PostgreSQL, Prisma, PlanetScale, SQLx
 - **Herramientas:** Git, Vercel, Railway, Turborepo, Zod, ESLint, Prettier
 
