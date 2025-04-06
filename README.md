@@ -20,7 +20,7 @@ Soy un desarrollador full stack especializado en **Rust**, **React** y **Next.js
 
 ## 🌎 Proyectos y plataformas:
 - 🌐 [Curanextgen](https://curanextgen.com)
-- 🌐 [Grulla Software](https://grullasoftware.com/)
+- 🌐 [Grulla Software](https://grulla-software-t3-3fjv-ubaldo-lopezs-projects.vercel.app/)
 
 ## 📜 Encuéntrame en:
 - [LinkedIn](https://www.linkedin.com/in/ubaldo-lopez-87bb85160/)
