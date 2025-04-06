@@ -21,8 +21,6 @@ Soy un desarrollador full stack especializado en **Rust**, **React** y **Next.js
 ## 🌎 Proyectos y plataformas:
 - 🌐 [Curanextgen](https://curanextgen.com)
 - 🌐 [Grulla Software](https://grulla-software-t3-3fjv-ubaldo-lopezs-projects.vercel.app/)
-- 🌐 [Jurista Servicios Legales](https://jurista.vercel.app/)
-- 🌐 [Gestion de Despachos Jurista](https://despacho.ijurista.com/)
 
 ## 🔄 Participación en otros proyectos:
 - 🌐 [Liderly](https://liderly.com/)
@@ -30,6 +28,8 @@ Soy un desarrollador full stack especializado en **Rust**, **React** y **Next.js
 - 🌐 [SoyTutor](https://soytutor.io/)
 - 🌐 [Ople Veracruz](https://srcl.oplever.org.mx)
 - 🌐 [Inteligencia EDUCA](https://campus.cever.edu.mx/login)
+- 🌐 [Jurista Servicios Legales](https://jurista.vercel.app/)
+- 🌐 [Gestion de Despachos Jurista](https://despacho.ijurista.com/)
 
 ## 📜 Encuéntrame en:
 - [LinkedIn](https://www.linkedin.com/in/ubaldo-lopez-87bb85160/)
