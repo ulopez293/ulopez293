@@ -12,6 +12,11 @@ Soy un desarrollador full stack especializado en **Rust**, **React** y **Next.js
 - 🔥 Creo en el desarrollo basado en la experiencia del usuario y la accesibilidad.
 - 📚 Me apasiona aprender y compartir conocimientos con la comunidad.
 
+## 📄 Mi CV
+Puedes descargar mi CV desde el siguiente enlace:
+
+[Descargar mi CV](./assets/CV-Ubaldo-Lopez.pdf)
+
 ## 🛠️ Tech Stack
 - **Frontend:** React, Next.js, Leptops, Trunk, Tailwind CSS, ShadCN/UI
 - **Backend:** Node.js, Express, tRPC, Axum, Tokio, Serde
