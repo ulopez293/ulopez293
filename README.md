@@ -19,6 +19,7 @@ Soy un desarrollador full stack especializado en **Rust**, **React** y **Next.js
 - **Herramientas:** Git, Vercel, Railway, Shuttle rs, Zod, ESLint, Prettier
 
 ## 🌎 Proyectos y plataformas:
+- 🌐 [Gestor de Despachos](https://gestordespachosfrontac.onrender.com)
 - 🌐 [Curanextgen](https://curanextgen.com)
 - 🌐 [Grulla Software](https://grulla-software-t3-3fjv-ubaldo-lopezs-projects.vercel.app/)
 - 🌐 [Liderly](https://liderly.com/)
