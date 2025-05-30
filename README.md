@@ -1,4 +1,4 @@
-# 🦀 ⚛︎ Hola, soy Ubaldo López
+# 🦀 ⚛︎ 🐹 Hola, soy Ubaldo López
 
 Soy un desarrollador full stack especializado en **Rust**, **React** y **Next.js**. Me encanta escribir código limpio, escalable y optimizado para el rendimiento. Siempre estoy buscando mejorar mis habilidades y aplicar las mejores prácticas en mis proyectos.
 
@@ -14,8 +14,8 @@ Soy un desarrollador full stack especializado en **Rust**, **React** y **Next.js
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Next.js, Tailwind CSS, ShadCN/UI
-- **Backend:** Node.js, Deno, Express, tRPC, Axum, Tokio, Serde
-- **Base de Datos:** PostgreSQL, Prisma, PlanetScale, SQLx, SeaORM
+- **Backend:** Node.js, Deno, Express, tRPC, Axum, Tokio, Serde, Fiber
+- **Base de Datos:** PostgreSQL, Prisma, PlanetScale, SQLx, SeaORM, Prisma Go Client
 - **Herramientas:** Git, Vercel, Railway, Shuttle rs, Zod, ESLint, Prettier
 
 ## 🌎 Proyectos y plataformas:
